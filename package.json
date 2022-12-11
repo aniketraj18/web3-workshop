@@ -1,0 +1,23 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "airdrop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniketraj18/web3-workshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aniketraj18/web3-workshop/issues"
+  },
+  "homepage": "https://github.com/aniketraj18/web3-workshop#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.70.1"
+  }
+}
